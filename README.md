@@ -1,5 +1,5 @@
-<h1 align="center">Oi, sou o Caio e tenho 19 anos</h1>
-<h3 align="center">Um estudante de analise e desenvolvimento de sistemas , atualmente me aprofundando em ASP.NET com C#, tambem tenho como hobby desenvolvimento de jogos</h3>
+<h1 align="center">Oi, sou o Caio</h1>
+<h3 align="center">Um estudante de analise e desenvolvimento de sistemas,tenho 19 anos , atualmente me aprofundando em ASP.NET com C#, tambem tenho como hobby desenvolvimento de jogos</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/caio-da-silva-ramos-b57257326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-da-silva-ramos" height="30" width="40" /></a>
