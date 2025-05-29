@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="left">Linguagens e Tecnologias:</h3>
-<img src = "https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,mysql,nodejs,java,c,lua,figma"/>
+<img src = "https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github,mysql,nodejs,express,java,c,lua,figma"/>
 
 <h3 align="left">Estatisticas:</h3>
 
