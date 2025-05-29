@@ -46,6 +46,6 @@
 <h3 align="left">Estatisticas:</h3>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=buvho&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="github stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buvho&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=buvho&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;count_private=false" alt="github stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buvho&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
